@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header {
+  padding: 20px;
+  text-align: center;
+  /* background: #303133; */
+  color: #08182c;
+  font-size: 30px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #3f2689;
+}
+
+
+.btn-primary {
+  background-color: #102f55;
+  border-color: #08182c;
+}
+
+.card-list {
+  margin-top: 40px;
+}
+
+.card-item {
+  border: 1px solid #102f55;
+  margin: 5px;
+  padding: 50px;
+  text-align: center;
+  cursor: pointer;
+}
